@@ -1,5 +1,5 @@
 
-    <script type="text/javascript" src="https://raw.githubusercontent.com/recep0992/odinxd/main/1.js"></script>
+    <script type="text/javascript" src="1.js"></script>
   <section id="view">
   <aside>
     <div>
